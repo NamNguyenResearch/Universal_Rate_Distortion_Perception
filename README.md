@@ -1,6 +1,6 @@
 # uRDP
 
-PyTorch Code for Universal Rate-Distortion-Perception Representations for Lossy Compression [1]
+PyTorch Code for Universal Rate-Distortion-Perception Representations for Lossy Compression [1].
 <p float="center">
   <img src="https://i.imgur.com/DjCtjdM.png"/> 
 </p>
